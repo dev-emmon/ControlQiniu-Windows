@@ -9,6 +9,7 @@
 2. 右键“我的电脑”->属性->高级系统设置->环境变量->path(系统变量)
 3. win7:    ;C:\Program Files\ffmpeg\bin
 4. win10:   新建->C:\Program Files\ffmpeg\bin
+
 **_注：_ 根据系统选择 3/4 步骤**
 
 ### 安装 nodejs 依赖
