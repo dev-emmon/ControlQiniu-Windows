@@ -7,15 +7,16 @@
 ### 安装 ffmpeg
 1. 复制文件夹下 “ffmpeg” 到 C:\Program Files 路径下
 2. 右键“我的电脑”->属性->高级系统设置->环境变量->path(系统变量)
-3. win7:  ;C:\Program Files\ffmpeg\bin
-4. win10: 新建->C:\Program Files\ffmpeg\bin
+3. win7:    ;C:\Program Files\ffmpeg\bin
+4. win10:   新建->C:\Program Files\ffmpeg\bin
+**_注：_ 根据系统选择 3/4 步骤**
 
 ### 安装 nodejs 依赖
 ```bash
 # --registry https://registry.npm.taobao.org install express
 npm config set registry https://registry.npm.taobao.org
 npm install request 
-npm install node-cmd  express
+npm install node-cmd
 ```
 
 ## 设置
